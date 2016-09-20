@@ -1,0 +1,125 @@
+
+2016-04-19 18:36:16 INFO  WarehouseInventoryReportExcel:54 - Excel report creation started
+2016-04-19 18:36:16 WARN  WarehouseInventoryReportExcel:55 - No inventory records found for Excel report
+2016-04-19 18:36:16 DEBUG WarehouseInventoryReportExcel:78 - Fetched 27 inventory records for report
+2016-04-19 18:36:16 TRACE WarehouseInventoryReportExcel:85 - Writing record # 1 to report
+2016-04-19 18:36:16 TRACE WarehouseInventoryReportExcel:85 - Writing record # 2 to report
+2016-04-19 18:36:16 TRACE WarehouseInventoryReportExcel:85 - Writing record # 3 to report
+2016-04-19 18:36:16 TRACE WarehouseInventoryReportExcel:85 - Writing record # 4 to report
+2016-04-19 18:36:16 TRACE WarehouseInventoryReportExcel:85 - Writing record # 5 to report
+2016-04-19 18:36:16 TRACE WarehouseInventoryReportExcel:85 - Writing record # 6 to report
+2016-04-19 18:36:16 TRACE WarehouseInventoryReportExcel:85 - Writing record # 7 to report
+2016-04-19 18:36:16 TRACE WarehouseInventoryReportExcel:85 - Writing record # 8 to report
+2016-04-19 18:36:16 TRACE WarehouseInventoryReportExcel:85 - Writing record # 9 to report
+2016-04-19 18:36:16 TRACE WarehouseInventoryReportExcel:85 - Writing record # 10 to report
+2016-04-19 18:36:16 TRACE WarehouseInventoryReportExcel:85 - Writing record # 11 to report
+2016-04-19 18:36:16 TRACE WarehouseInventoryReportExcel:85 - Writing record # 12 to report
+2016-04-19 18:36:16 TRACE WarehouseInventoryReportExcel:85 - Writing record # 13 to report
+2016-04-19 18:36:16 TRACE WarehouseInventoryReportExcel:85 - Writing record # 14 to report
+2016-04-19 18:36:16 TRACE WarehouseInventoryReportExcel:85 - Writing record # 15 to report
+2016-04-19 18:36:16 TRACE WarehouseInventoryReportExcel:85 - Writing record # 16 to report
+2016-04-19 18:36:16 TRACE WarehouseInventoryReportExcel:85 - Writing record # 17 to report
+2016-04-19 18:36:16 TRACE WarehouseInventoryReportExcel:85 - Writing record # 18 to report
+2016-04-19 18:36:16 TRACE WarehouseInventoryReportExcel:85 - Writing record # 19 to report
+2016-04-19 18:36:16 TRACE WarehouseInventoryReportExcel:85 - Writing record # 20 to report
+2016-04-19 18:36:16 TRACE WarehouseInventoryReportExcel:85 - Writing record # 21 to report
+2016-04-19 18:36:16 TRACE WarehouseInventoryReportExcel:85 - Writing record # 22 to report
+2016-04-19 18:36:16 TRACE WarehouseInventoryReportExcel:85 - Writing record # 23 to report
+2016-04-19 18:36:16 TRACE WarehouseInventoryReportExcel:85 - Writing record # 24 to report
+2016-04-19 18:36:16 TRACE WarehouseInventoryReportExcel:85 - Writing record # 25 to report
+2016-04-19 18:36:16 TRACE WarehouseInventoryReportExcel:85 - Writing record # 26 to report
+2016-04-19 18:36:16 TRACE WarehouseInventoryReportExcel:85 - Writing record # 27 to report
+2016-04-19 18:36:16 INFO  WarehouseInventoryReportExcel:111 - writing report to file
+2016-04-19 18:36:33 INFO  WarehouseInventoryReportExcel:54 - Excel report creation started
+2016-04-19 18:36:33 WARN  WarehouseInventoryReportExcel:55 - No inventory records found for Excel report
+2016-04-19 18:36:33 DEBUG WarehouseInventoryReportExcel:78 - Fetched 27 inventory records for report
+2016-04-19 18:36:33 TRACE WarehouseInventoryReportExcel:85 - Writing record # 1 to report
+2016-04-19 18:36:33 TRACE WarehouseInventoryReportExcel:85 - Writing record # 2 to report
+2016-04-19 18:36:33 TRACE WarehouseInventoryReportExcel:85 - Writing record # 3 to report
+2016-04-19 18:36:33 TRACE WarehouseInventoryReportExcel:85 - Writing record # 4 to report
+2016-04-19 18:36:33 TRACE WarehouseInventoryReportExcel:85 - Writing record # 5 to report
+2016-04-19 18:36:33 TRACE WarehouseInventoryReportExcel:85 - Writing record # 6 to report
+2016-04-19 18:36:33 TRACE WarehouseInventoryReportExcel:85 - Writing record # 7 to report
+2016-04-19 18:36:33 TRACE WarehouseInventoryReportExcel:85 - Writing record # 8 to report
+2016-04-19 18:36:33 TRACE WarehouseInventoryReportExcel:85 - Writing record # 9 to report
+2016-04-19 18:36:33 TRACE WarehouseInventoryReportExcel:85 - Writing record # 10 to report
+2016-04-19 18:36:33 TRACE WarehouseInventoryReportExcel:85 - Writing record # 11 to report
+2016-04-19 18:36:33 TRACE WarehouseInventoryReportExcel:85 - Writing record # 12 to report
+2016-04-19 18:36:33 TRACE WarehouseInventoryReportExcel:85 - Writing record # 13 to report
+2016-04-19 18:36:33 TRACE WarehouseInventoryReportExcel:85 - Writing record # 14 to report
+2016-04-19 18:36:33 TRACE WarehouseInventoryReportExcel:85 - Writing record # 15 to report
+2016-04-19 18:36:33 TRACE WarehouseInventoryReportExcel:85 - Writing record # 16 to report
+2016-04-19 18:36:33 TRACE WarehouseInventoryReportExcel:85 - Writing record # 17 to report
+2016-04-19 18:36:33 TRACE WarehouseInventoryReportExcel:85 - Writing record # 18 to report
+2016-04-19 18:36:33 TRACE WarehouseInventoryReportExcel:85 - Writing record # 19 to report
+2016-04-19 18:36:33 TRACE WarehouseInventoryReportExcel:85 - Writing record # 20 to report
+2016-04-19 18:36:33 TRACE WarehouseInventoryReportExcel:85 - Writing record # 21 to report
+2016-04-19 18:36:33 TRACE WarehouseInventoryReportExcel:85 - Writing record # 22 to report
+2016-04-19 18:36:33 TRACE WarehouseInventoryReportExcel:85 - Writing record # 23 to report
+2016-04-19 18:36:33 TRACE WarehouseInventoryReportExcel:85 - Writing record # 24 to report
+2016-04-19 18:36:33 TRACE WarehouseInventoryReportExcel:85 - Writing record # 25 to report
+2016-04-19 18:36:33 TRACE WarehouseInventoryReportExcel:85 - Writing record # 26 to report
+2016-04-19 18:36:33 TRACE WarehouseInventoryReportExcel:85 - Writing record # 27 to report
+2016-04-19 18:36:33 INFO  WarehouseInventoryReportExcel:111 - writing report to file
+2016-04-19 18:37:57 INFO  WarehouseInventoryReportExcel:54 - Excel report creation started
+2016-04-19 18:37:57 WARN  WarehouseInventoryReportExcel:55 - No inventory records found for Excel report
+2016-04-19 18:37:57 DEBUG WarehouseInventoryReportExcel:78 - Fetched 27 inventory records for report
+2016-04-19 18:37:57 TRACE WarehouseInventoryReportExcel:85 - Writing record # 1 to report
+2016-04-19 18:37:57 TRACE WarehouseInventoryReportExcel:85 - Writing record # 2 to report
+2016-04-19 18:37:57 TRACE WarehouseInventoryReportExcel:85 - Writing record # 3 to report
+2016-04-19 18:37:57 TRACE WarehouseInventoryReportExcel:85 - Writing record # 4 to report
+2016-04-19 18:37:57 TRACE WarehouseInventoryReportExcel:85 - Writing record # 5 to report
+2016-04-19 18:37:57 TRACE WarehouseInventoryReportExcel:85 - Writing record # 6 to report
+2016-04-19 18:37:57 TRACE WarehouseInventoryReportExcel:85 - Writing record # 7 to report
+2016-04-19 18:37:57 TRACE WarehouseInventoryReportExcel:85 - Writing record # 8 to report
+2016-04-19 18:37:57 TRACE WarehouseInventoryReportExcel:85 - Writing record # 9 to report
+2016-04-19 18:37:57 TRACE WarehouseInventoryReportExcel:85 - Writing record # 10 to report
+2016-04-19 18:37:57 TRACE WarehouseInventoryReportExcel:85 - Writing record # 11 to report
+2016-04-19 18:37:57 TRACE WarehouseInventoryReportExcel:85 - Writing record # 12 to report
+2016-04-19 18:37:57 TRACE WarehouseInventoryReportExcel:85 - Writing record # 13 to report
+2016-04-19 18:37:57 TRACE WarehouseInventoryReportExcel:85 - Writing record # 14 to report
+2016-04-19 18:37:57 TRACE WarehouseInventoryReportExcel:85 - Writing record # 15 to report
+2016-04-19 18:37:57 TRACE WarehouseInventoryReportExcel:85 - Writing record # 16 to report
+2016-04-19 18:37:57 TRACE WarehouseInventoryReportExcel:85 - Writing record # 17 to report
+2016-04-19 18:37:57 TRACE WarehouseInventoryReportExcel:85 - Writing record # 18 to report
+2016-04-19 18:37:57 TRACE WarehouseInventoryReportExcel:85 - Writing record # 19 to report
+2016-04-19 18:37:57 TRACE WarehouseInventoryReportExcel:85 - Writing record # 20 to report
+2016-04-19 18:37:57 TRACE WarehouseInventoryReportExcel:85 - Writing record # 21 to report
+2016-04-19 18:37:57 TRACE WarehouseInventoryReportExcel:85 - Writing record # 22 to report
+2016-04-19 18:37:57 TRACE WarehouseInventoryReportExcel:85 - Writing record # 23 to report
+2016-04-19 18:37:57 TRACE WarehouseInventoryReportExcel:85 - Writing record # 24 to report
+2016-04-19 18:37:57 TRACE WarehouseInventoryReportExcel:85 - Writing record # 25 to report
+2016-04-19 18:37:57 TRACE WarehouseInventoryReportExcel:85 - Writing record # 26 to report
+2016-04-19 18:37:57 TRACE WarehouseInventoryReportExcel:85 - Writing record # 27 to report
+2016-04-19 18:37:57 INFO  WarehouseInventoryReportExcel:111 - writing report to file
+2016-04-19 18:38:03 INFO  WarehouseInventoryReportExcel:54 - Excel report creation started
+2016-04-19 18:38:03 WARN  WarehouseInventoryReportExcel:55 - No inventory records found for Excel report
+2016-04-19 18:38:03 DEBUG WarehouseInventoryReportExcel:78 - Fetched 27 inventory records for report
+2016-04-19 18:38:03 TRACE WarehouseInventoryReportExcel:85 - Writing record # 1 to report
+2016-04-19 18:38:03 TRACE WarehouseInventoryReportExcel:85 - Writing record # 2 to report
+2016-04-19 18:38:03 TRACE WarehouseInventoryReportExcel:85 - Writing record # 3 to report
+2016-04-19 18:38:03 TRACE WarehouseInventoryReportExcel:85 - Writing record # 4 to report
+2016-04-19 18:38:03 TRACE WarehouseInventoryReportExcel:85 - Writing record # 5 to report
+2016-04-19 18:38:03 TRACE WarehouseInventoryReportExcel:85 - Writing record # 6 to report
+2016-04-19 18:38:03 TRACE WarehouseInventoryReportExcel:85 - Writing record # 7 to report
+2016-04-19 18:38:03 TRACE WarehouseInventoryReportExcel:85 - Writing record # 8 to report
+2016-04-19 18:38:03 TRACE WarehouseInventoryReportExcel:85 - Writing record # 9 to report
+2016-04-19 18:38:03 TRACE WarehouseInventoryReportExcel:85 - Writing record # 10 to report
+2016-04-19 18:38:03 TRACE WarehouseInventoryReportExcel:85 - Writing record # 11 to report
+2016-04-19 18:38:03 TRACE WarehouseInventoryReportExcel:85 - Writing record # 12 to report
+2016-04-19 18:38:03 TRACE WarehouseInventoryReportExcel:85 - Writing record # 13 to report
+2016-04-19 18:38:03 TRACE WarehouseInventoryReportExcel:85 - Writing record # 14 to report
+2016-04-19 18:38:03 TRACE WarehouseInventoryReportExcel:85 - Writing record # 15 to report
+2016-04-19 18:38:03 TRACE WarehouseInventoryReportExcel:85 - Writing record # 16 to report
+2016-04-19 18:38:03 TRACE WarehouseInventoryReportExcel:85 - Writing record # 17 to report
+2016-04-19 18:38:03 TRACE WarehouseInventoryReportExcel:85 - Writing record # 18 to report
+2016-04-19 18:38:03 TRACE WarehouseInventoryReportExcel:85 - Writing record # 19 to report
+2016-04-19 18:38:03 TRACE WarehouseInventoryReportExcel:85 - Writing record # 20 to report
+2016-04-19 18:38:03 TRACE WarehouseInventoryReportExcel:85 - Writing record # 21 to report
+2016-04-19 18:38:03 TRACE WarehouseInventoryReportExcel:85 - Writing record # 22 to report
+2016-04-19 18:38:03 TRACE WarehouseInventoryReportExcel:85 - Writing record # 23 to report
+2016-04-19 18:38:03 TRACE WarehouseInventoryReportExcel:85 - Writing record # 24 to report
+2016-04-19 18:38:03 TRACE WarehouseInventoryReportExcel:85 - Writing record # 25 to report
+2016-04-19 18:38:03 TRACE WarehouseInventoryReportExcel:85 - Writing record # 26 to report
+2016-04-19 18:38:03 TRACE WarehouseInventoryReportExcel:85 - Writing record # 27 to report
+2016-04-19 18:38:03 INFO  WarehouseInventoryReportExcel:111 - writing report to file
